@@ -1,0 +1,50 @@
+@media only screen and (max-width:414px) {
+    .country-container {
+        flex-direction: column;
+        width: 85%;
+
+    }
+
+    h1 {
+        font-size: 20px;
+    }
+
+    .image-container {
+        width: 100%;
+    }
+
+    .flag {
+        height: 100%;
+    }
+
+    .info-container {
+        width: 100%;
+    }
+
+    .info {
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .info-container h2 {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .border-title {
+        font-size: 17px;
+    }
+
+    .border-countries {
+        flex-direction: column;
+    }
+
+    .btn-container {
+        margin-bottom: 50px;
+    }
+
+
+
+
+
+}
